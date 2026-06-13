@@ -1,0 +1,27 @@
+{
+  "name": "Loan Calculator Pro",
+  "short_name": "Loan",
+  "description": "Mortgage, EMI, and interest calculator. Offline.",
+  "start_url": "/loan-calculator-pro/",
+  "scope": "/loan-calculator-pro/",
+  "display": "standalone",
+  "background_color": "#080f0a",
+  "theme_color": "#34d399",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/loan-calculator-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/loan-calculator-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
